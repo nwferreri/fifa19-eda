@@ -7,8 +7,10 @@ Tools used:
 * [Seaborn](https://seaborn.pydata.org/)
 * [Bokeh](http://bokeh.org/)
 
-**Hypothetical Problem**
-Which players are good candidates for recruiting, based on their wage compared to their value?
+**Hypothetical Problem**: Which players are good candidates for recruiting, based on their wage compared to their value?
 
-After cleaning the data and calculating the difference between Value and Wage, this scatter plot was created:
+After cleaning the data and calculating the difference between Value and Wage, the scatter plot seen in Figure 1 was created.
+
 > ![image](https://github.com/nwferreri/fifa19-eda/assets/112211174/5245fcdc-26a3-4cf0-913b-f4d00622458f)
+> 
+> **Figure 1.** Scatter plot of Value vs Wage
